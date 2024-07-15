@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person
+xmlns:a='http://helloworld_@_namespace.com/helloworlds_namespace'
+xmlns:b='http://johndoe_@_namespace.com/johndoes_namespace'
+xmlns:c='http://tokyorio_@_namespace.com/tokyorios_namespace'
+xmlns:d='http://jaggudada_@_namespace.com/jaggudadas_namespace'
+>
+    <user id='1'>
+        <a:fname>Hello</a:fname>
+        <a:lname>World!</a:lname>
+        <a:email>helloworld@gmail.com</a:email>
+    </user>
+    <user id='2'>
+        <b:fname>John</b:fname>
+        <b:lname>Doe</b:lname>
+        <b:email>johndoe@tahoo.mail</b:email>
+    </user>
+    <user id='3'>
+        <c:fname>Tokyo</c:fname>
+        <c:lname>Rio</c:lname>
+        <c:email>tokyo@riohotmail.com</c:email>
+    </user>
+    <user id='4'>
+        <d:fname>Jaggu</d:fname>
+        <d:lname>Panda</d:lname>
+        <d:email>jaggupanda321@gmail.com</d:email>
+    </user>
+</person>
